@@ -14,7 +14,7 @@
 > # Support me.
 
 * Thanks for looking at this repository, if you like to press the ⭐ button!
-* Made with 💖 by [Vichy](https://github.com/Its-Vichy).
+* Made with 💖 by [Vichy](https://github.com/Its-Vichy) & [5R33CH4](https://github.com/5R33CH4).
 * RCΛ Love u.
 
 <p align="center"> 
