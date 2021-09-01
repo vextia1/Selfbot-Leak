@@ -19,9 +19,9 @@
 
 <p align="center"> 
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Batched-Grabber?style=social">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Its-Vichy/Batched-Grabber">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Its-Vichy/Batched-Grabber">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Its-Vichy/Batched-Grabber">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Its-Vichy/Batched-Grabber?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Selfbot-Leak?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Its-Vichy/Selfbot-Leak">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Its-Vichy/Selfbot-Leak">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Its-Vichy/Selfbot-Leak">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Its-Vichy/Selfbot-Leak?style=social">
 </p>
