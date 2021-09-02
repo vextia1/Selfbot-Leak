@@ -1,0 +1,12 @@
+git+https://github.com/Rapptz/discord.py
+websockets
+aiohttp
+pyfiglet
+asyncio
+datetime
+colorama
+pillow
+qrcode
+youtube_dl
+beautifulsoup4
+requests

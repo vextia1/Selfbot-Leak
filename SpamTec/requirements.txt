@@ -1,0 +1,5 @@
+discord
+asyncio
+requests
+psutil
+colorama
