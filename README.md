@@ -23,6 +23,13 @@
 ᲼᲼
 [![](https://github.com/5R33CH4.png?size=50)](https://github.com/5R33CH4)
 
+> # Selfbots :
+  - [Alucard](https://github.com/5R33CH4/Selfbot-Leak/tree/main/Alucard)   : Best all-in-one selfbot with 110+ commands
+  - [SpamTec](https://github.com/5R33CH4/Selfbot-Leak/tree/main/SpamTec)   : Selfbot with DDoS functionality
+  - [DiscoRape](https://github.com/5R33CH4/Selfbot-Leak/tree/main/DiscoRape) : Go to selfbot for Nuking
+  - [dwifle.py](https://github.com/5R33CH4/Selfbot-Leak/tree/main/dwifte.py) : A minimal selfbot for new skids
+
+
 <p align="center"> 
     <b>Informations</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Selfbot-Leak?style=social">
