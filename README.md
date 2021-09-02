@@ -1,4 +1,4 @@
-<h1 align="center">Deobfuscated selfbot source for free</h1>
+<h1 align="center">Deobfuscated selfbot sources</h1>
 
 ----
 
