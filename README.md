@@ -20,6 +20,7 @@
 > # Contributors
 
 [![](https://github.com/Its-Vichy.png?size=50)](https://github.com/Is-Vichy)
+᲼᲼
 [![](https://github.com/5R33CH4.png?size=50)](https://github.com/5R33CH4)
 
 <p align="center"> 
